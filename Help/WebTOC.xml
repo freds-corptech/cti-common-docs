@@ -1,0 +1,690 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the CTI Common API Documentation" Url="html/cf0d472e-76bd-485e-840f-22fba0b78bdf.htm" />
+  <HelpTOCNode Id="cfd92795-8f8c-44ba-b90c-0e83b6641ff1" Title="Version History" Url="html/08029212-89dc-46d5-a9fc-e0cde8531d52.htm">
+    <HelpTOCNode Title="Version 3.0.0.0" Url="html/d77aeabf-6327-45e1-948a-d7b858522b74.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="9914b2c5-fd84-4c12-a063-647fbb824201" Title="CTI Common Namespaces" Url="html/d75eb659-6335-53f6-af7a-81814a21ab7f.htm">
+    <HelpTOCNode Id="3d394f5f-7d0a-4bf6-8274-ffa2df03fc4c" Title="CTI.Common.Core Namespaces" Url="html/269df6b5-d44b-880e-13cf-aa3fb4e98631.htm">
+      <HelpTOCNode Id="e874b16a-93d9-43ff-bba7-16881d0652c8" Title="CTI.Common.Core.Abstractions" Url="html/ea80f226-1f2e-dfbd-4d16-1bee3a4224c9.htm">
+        <HelpTOCNode Id="10a158a6-3621-4ca4-aa84-a6b910108c59" Title="IAuthenticatedUser Interface" Url="html/9bae3cb6-5a6e-75a1-4241-938b70eb1ef8.htm">
+          <HelpTOCNode Id="f73b32c5-f74f-411a-b13b-b82d78727c68" Title="IAuthenticatedUser Properties" Url="html/d1c1ff81-e680-0c56-dc76-07879729bb8d.htm">
+            <HelpTOCNode Title="Tenant Property " Url="html/06f364ee-1505-9541-6021-556eceaf1ad7.htm" />
+            <HelpTOCNode Title="TraceId Property " Url="html/142b84c0-ff4d-13fd-240e-992525f1f66f.htm" />
+            <HelpTOCNode Title="UserId Property " Url="html/3538629b-fa88-10dd-273e-7b9f65cda446.htm" />
+            <HelpTOCNode Title="Username Property " Url="html/82969b6b-a53c-077b-7e8d-d5fcf00d0b1f.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="7c4b6d61-4338-4fd5-90bb-59c93de24a61" Title="IEntity Interface" Url="html/b998969e-e763-f29b-bbb7-0ede8dc5dac5.htm">
+          <HelpTOCNode Id="57741df6-8c2d-42fb-9918-c4986a65f1d6" Title="IEntity Properties" Url="html/0cc99919-4a4e-a5ad-28ec-6b3c7b2fe332.htm">
+            <HelpTOCNode Title="Id Property " Url="html/788c1188-f096-23a9-5a06-c963919ff601.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="faa35ffa-3bdd-4df8-ae58-b1443be6bdf1" Title="CTI.Common.Core.Common" Url="html/c9014e44-e810-6f55-ac8d-9eada2cbd598.htm">
+        <HelpTOCNode Id="fc4af13a-1d9f-4fd5-bae7-b113d2021d5d" Title="BaseEntity Class" Url="html/a9171f7a-a0b4-2f10-75cc-478aa189c872.htm">
+          <HelpTOCNode Title="BaseEntity Constructor " Url="html/7e187d5a-4bfb-4923-75b7-8261468f208a.htm" />
+          <HelpTOCNode Id="2775bc68-8d71-47cd-9034-a9fd964f2c16" Title="BaseEntity Properties" Url="html/e2fdd203-4258-7bf0-7480-fd71cf69ddfb.htm">
+            <HelpTOCNode Title="Id Property " Url="html/68501b01-60a7-15c6-392f-53ec176fe60d.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="BaseEntity Methods" Url="html/0234b21a-67db-e618-d86a-ccc42b6c92ca.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0cbb6269-51fe-455a-b416-28a5d7fbd454" Title="Entity Class" Url="html/68852831-67ac-c5c6-d616-60053145b371.htm">
+          <HelpTOCNode Title="Entity Constructor " Url="html/49af2f3b-57a8-4c67-3a3b-e1323a27c160.htm" />
+          <HelpTOCNode Id="1012d519-0b17-4bbc-9946-bd4e1c78841f" Title="Entity Properties" Url="html/0594cc03-e075-6934-0927-35d051a95a2b.htm">
+            <HelpTOCNode Title="CreatedBy Property " Url="html/4e9febcc-5b88-2d6c-6d99-3b54a11191a7.htm" />
+            <HelpTOCNode Title="CreatedDate Property " Url="html/d28b1de1-9ea3-a8fa-7f7e-6db5f4151def.htm" />
+            <HelpTOCNode Title="LastModifiedBy Property " Url="html/1cac8f72-ca5c-32bf-1ae6-c56ab1efb9d5.htm" />
+            <HelpTOCNode Title="LastModifiedDate Property " Url="html/40d2d5d8-4b9a-8daf-b163-a9cdf9af6fd6.htm" />
+            <HelpTOCNode Title="Tenant Property " Url="html/81680330-53f5-c9bd-384a-7e744fffa314.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Entity Methods" Url="html/7e702945-0981-982b-3776-71964a83eadc.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="43f7de86-a7a8-4646-adbe-0de463a958a2" Title="Errors Class" Url="html/4e05597a-9f4f-0887-78e5-50573f3c2e4b.htm">
+          <HelpTOCNode Id="4607007a-5a01-41b5-94e3-f7621ab8619f" Title="Errors Fields" Url="html/bf7f7947-5d4c-7af8-5534-fbf392f855f6.htm">
+            <HelpTOCNode Title="DoesNotExist Field" Url="html/c3ffaedc-9688-5327-e4f2-9acd0f8cd156.htm" />
+            <HelpTOCNode Title="DoesNotExistCode Field" Url="html/eae3e021-1639-c5d5-79ac-64a983135544.htm" />
+            <HelpTOCNode Title="DoesNotExistText Field" Url="html/fff788c5-0a51-01d4-0abc-bbf702155c75.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="3b522bf1-65e5-4e49-a351-b483c1a7e7e2" Title="PagedListResponse(T) Class" Url="html/be2cb910-8592-14e1-7407-2b31ee8e2e0f.htm">
+          <HelpTOCNode Id="29cd5196-8500-4a6a-ba78-2ea43e70be54" Title="PagedListResponse(T) Constructor " Url="html/34c6e3fe-955c-2692-d66e-403a9ffa5ab6.htm">
+            <HelpTOCNode Title="PagedListResponse(T) Constructor (IPagedList`1(T))" Url="html/eb6f10da-8c20-afa8-0d54-10b98dc499eb.htm" />
+            <HelpTOCNode Title="PagedListResponse(T) Constructor (IPagedList`1(T), Int32)" Url="html/386b705b-4a5b-eed7-8190-0faac9a20377.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="d8b35973-3f30-4867-b515-7029cdcc11e1" Title="PagedListResponse(T) Properties" Url="html/9ec38245-2c59-3ce1-a2ad-5074a1e080c9.htm">
+            <HelpTOCNode Title="Data Property " Url="html/e1cbfb44-3648-6078-e338-16e6152aef2f.htm" />
+            <HelpTOCNode Title="MetaData Property " Url="html/2fa1fba6-3805-8d57-5854-024fcc9280c9.htm" />
+            <HelpTOCNode Title="TotalCount Property " Url="html/1531bae0-69dc-249b-630d-29f55ef80ba3.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="PagedListResponse(T) Methods" Url="html/b33d156c-f8f8-c1e4-00e0-56986bd934ed.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7ae4c2d7-bd74-4fac-8220-a213a1d1f7e6" Title="CTI.Common.Core.Data" Url="html/c62d659a-8e0e-45b8-cc27-0210839daa61.htm">
+        <HelpTOCNode Id="7988b393-4876-474c-bb77-5af852418dad" Title="Audit Class" Url="html/91dee7ff-df45-b5fb-455a-1e36eca3675a.htm">
+          <HelpTOCNode Title="Audit Constructor " Url="html/fb570913-efd7-2760-722b-0660a6e33e5a.htm" />
+          <HelpTOCNode Id="afc1b579-7197-4945-b08d-6eae7817423e" Title="Audit Properties" Url="html/ffcccf8d-5a6f-bb89-e7cb-5a109b2ac620.htm">
+            <HelpTOCNode Title="AffectedColumns Property " Url="html/cbc66e69-4f13-c694-90aa-0f29ef74bb6c.htm" />
+            <HelpTOCNode Title="DateTime Property " Url="html/925c6f8c-0e5f-29af-b579-090ce07adb44.htm" />
+            <HelpTOCNode Title="Id Property " Url="html/df3e3cb6-e06a-31aa-9998-3d51c2ae1f0e.htm" />
+            <HelpTOCNode Title="NewValues Property " Url="html/72fce05c-3da0-92ab-157f-b04df6d2e7ce.htm" />
+            <HelpTOCNode Title="OldValues Property " Url="html/c5112faa-ab32-6dce-bbaf-e46850da4acc.htm" />
+            <HelpTOCNode Title="PrimaryKey Property " Url="html/d8c5f023-1262-a56b-2c89-effb5fc9a800.htm" />
+            <HelpTOCNode Title="TableName Property " Url="html/98d67c2d-3c46-7522-99c8-62371ca33f42.htm" />
+            <HelpTOCNode Title="TraceId Property " Url="html/79dcc913-fec3-6979-fb33-6515d1e41c3c.htm" />
+            <HelpTOCNode Title="Type Property " Url="html/31138078-892f-fb72-572b-c6ae9b717464.htm" />
+            <HelpTOCNode Title="UserId Property " Url="html/4f665aac-2eba-445c-1e6a-d17fce766131.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Audit Methods" Url="html/23f3fc24-a182-1996-b5d2-73b6f57001ba.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5e097542-d141-48db-9b55-43e6390b9090" Title="AuditableContext Class" Url="html/61007aeb-ea98-55ad-8cd7-a000af183f9e.htm">
+          <HelpTOCNode Title="AuditableContext Constructor " Url="html/383ae8d3-c39e-9dfb-539d-6477c12bf184.htm" />
+          <HelpTOCNode Id="38692806-3e7f-4817-a7d1-6982d20d1688" Title="AuditableContext Properties" Url="html/14aac998-94f6-5ebc-da76-88572272b94d.htm">
+            <HelpTOCNode Title="AuditLogs Property " Url="html/d1ee5e56-8a63-2308-1eb2-e04e2064fecd.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="c78ac549-40dc-4eaf-8d16-8366aa11e4fc" Title="AuditableContext Methods" Url="html/a9cc05a1-54b1-5498-8353-3773c90f3820.htm">
+            <HelpTOCNode Id="4a6f9e2e-3b22-42dd-a433-e4cf16aa7a2a" Title="SaveChangesAsync Method " Url="html/3f0ec6e3-6157-2ef7-ed62-f8f90682ba33.htm">
+              <HelpTOCNode Title="SaveChangesAsync Method (String, String, CancellationToken)" Url="html/ed9c3f6c-0823-4f2e-1776-107feb6bda4c.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Title="AuditableContext Events" Url="html/d1960b31-8cea-1392-f777-a9567355056f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a73a2627-9b8f-4028-88cf-16595f47ecce" Title="AuditEntry Class" Url="html/69f53e7e-362b-a53c-77ad-28c85625981a.htm">
+          <HelpTOCNode Title="AuditEntry Constructor " Url="html/d2e6ee19-af5a-dcd9-98f5-41c44666dc96.htm" />
+          <HelpTOCNode Id="db044fc3-e329-43f3-8eb2-3d73fafbd2fd" Title="AuditEntry Properties" Url="html/4aea6ab3-95af-a700-00c3-a50c9a37b575.htm">
+            <HelpTOCNode Title="AuditType Property " Url="html/24f61324-0996-46e5-5461-dc0d1ea89145.htm" />
+            <HelpTOCNode Title="ChangedColumns Property " Url="html/899f038e-3a46-c8d5-eb50-9bd17eea87a0.htm" />
+            <HelpTOCNode Title="Entry Property " Url="html/e9a20b90-874e-38fe-a793-eed6a0c65386.htm" />
+            <HelpTOCNode Title="HasTemporaryProperties Property " Url="html/e4e5ea54-d212-9c20-ce19-d39b2f97e15e.htm" />
+            <HelpTOCNode Title="KeyValues Property " Url="html/dc797772-08a4-5b09-4a77-8c6f2892e651.htm" />
+            <HelpTOCNode Title="NewValues Property " Url="html/017e4c17-71d5-99ca-45a1-7048b6818d04.htm" />
+            <HelpTOCNode Title="OldValues Property " Url="html/a33cef7f-d8b1-7f49-cae6-b3c232228f22.htm" />
+            <HelpTOCNode Title="TableName Property " Url="html/21179513-3103-9b67-ae98-5c2a68082174.htm" />
+            <HelpTOCNode Title="TemporaryProperties Property " Url="html/ead691af-c15a-2bf9-6610-becdac9478ae.htm" />
+            <HelpTOCNode Title="TraceId Property " Url="html/ab2b6897-7753-d016-d2fc-8fdfa0d43fb9.htm" />
+            <HelpTOCNode Title="UserId Property " Url="html/cf8a2265-46d6-c09c-0a0f-3da0cef6c19e.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="6fe363a0-21d7-4922-8482-69c5fc351741" Title="AuditEntry Methods" Url="html/b8b674d7-f0e5-7f7c-e373-3463582df1d5.htm">
+            <HelpTOCNode Title="ToAudit Method " Url="html/3fe7a39b-f86f-f061-3248-ae37fc504c1e.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Title="AuditType Enumeration" Url="html/351172eb-8bb4-584f-7253-ce3284575469.htm" />
+        <HelpTOCNode Id="087bc5da-16a8-4938-a31f-8a79972b7362" Title="BaseDbContext(T) Class" Url="html/e9347317-32ca-72f1-8135-f5ba95aba143.htm">
+          <HelpTOCNode Title="BaseDbContext(T) Constructor " Url="html/10a05df7-6ea5-cac6-444f-e222da5ba024.htm" />
+          <HelpTOCNode Title="BaseDbContext(T) Properties" Url="html/a69b0c38-f340-515c-df0e-6d23f63a54e0.htm" />
+          <HelpTOCNode Id="a005c3c3-b47b-471f-bbcb-c19a4fcfd5cd" Title="BaseDbContext(T) Methods" Url="html/418b1502-6cde-11ec-69e2-e4746b7941bd.htm">
+            <HelpTOCNode Title="OnModelCreating Method " Url="html/3fa2949a-8556-1963-7501-5a40c9d72192.htm" />
+            <HelpTOCNode Id="fb05602d-9308-408d-840b-c008edb6991c" Title="SaveChangesAsync Method " Url="html/8a4ea0ff-79ca-a3f6-ba53-8aac5471af50.htm">
+              <HelpTOCNode Title="SaveChangesAsync Method (CancellationToken)" Url="html/804c33fd-4806-d8e5-77d6-ae316f76d5e8.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Title="BaseDbContext(T) Events" Url="html/d87f5925-b29d-be02-e361-d7bfa1a14696.htm" />
+          <HelpTOCNode Id="92b77161-08b9-47cc-afb3-b37122f82c37" Title="BaseDbContext(T) Fields" Url="html/5237b96e-7669-0910-37d9-aa8f5717b920.htm">
+            <HelpTOCNode Title="AuthenticatedUser Field" Url="html/4eed5f75-b47f-5372-8462-52ab7e9c180d.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="d3d3e8e5-a3ff-46d5-922d-47c00b3b5974" Title="DbContextExtensions Class" Url="html/bffe48c5-3540-5107-2586-cbe23f41d515.htm">
+          <HelpTOCNode Id="c0d09151-74c3-4352-a155-81534722ede1" Title="DbContextExtensions Methods" Url="html/6f4403c2-a29a-3694-57e8-782f69288b38.htm">
+            <HelpTOCNode Title="AddOrUpdateAsync(T) Method " Url="html/f73258c6-e44c-1f71-f0ce-3b13cc535a00.htm" />
+            <HelpTOCNode Title="ExistsAsync(TEntity) Method " Url="html/c38d495d-e9ba-569a-256b-d4e45d648374.htm" />
+            <HelpTOCNode Title="GetPage(T) Method " Url="html/73345b56-d4df-6763-c952-8cbd1bcb1726.htm" />
+            <HelpTOCNode Title="GetPages(T) Method " Url="html/53decc5e-523e-8e6e-0cc6-9953dccbdd4b.htm" />
+            <HelpTOCNode Title="GetSingleAsync(T) Method " Url="html/04fdbb30-0a7c-cd98-ef1c-071e4f14d9aa.htm" />
+            <HelpTOCNode Id="745a7b34-cd7d-4872-aca1-8d01659834d9" Title="MustExistAsync Method " Url="html/81118636-1ff0-ee6c-eee3-cce3963bafa4.htm">
+              <HelpTOCNode Title="MustExistAsync(TEntity) Method (DbContext, Expression(Func(TEntity, Boolean)), Boolean, CancellationToken)" Url="html/76706537-df2f-9d3a-ae5b-0f4f89b2fc72.htm" />
+              <HelpTOCNode Title="MustExistAsync(TEntity, TSuccess) Method (DbContext, Expression(Func(TEntity, Boolean)), Func(TEntity, TSuccess), Func(Error), Boolean, CancellationToken)" Url="html/0215ca59-e54f-bf73-e96e-3456a65d06b7.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="MustNotExistAsync(TEntity, TSuccess) Method " Url="html/a1730146-63d6-2904-5cf1-aac36c27f6fe.htm" />
+            <HelpTOCNode Title="NotExistsAsync(TEntity) Method " Url="html/8d333aef-ca80-17a1-3889-e0fbf3663508.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="d2ccc78b-554c-4c57-b06a-245943544d9b" Title="DbHelper Class" Url="html/dca43d64-9ad6-947b-7999-f9fdcff44f54.htm">
+          <HelpTOCNode Id="23d9099d-40b8-4550-a853-4a0d75ca2a18" Title="DbHelper Methods" Url="html/46e4113a-2989-f0de-10ce-d6cbc435e162.htm">
+            <HelpTOCNode Title="AddEff(TContext, RT, T) Method " Url="html/df7986be-f164-5373-d0de-79bfb270630b.htm" />
+            <HelpTOCNode Title="AddOrUpdateEff(TContext, RT, T) Method " Url="html/f1cab61c-bc2f-131b-f0a6-70f961773f4a.htm" />
+            <HelpTOCNode Title="GetPageEff(TContext, RT, T) Method " Url="html/b33e409a-bb71-308e-501c-8e219c0ecba9.htm" />
+            <HelpTOCNode Title="GetPagesEff(TContext, RT, T) Method " Url="html/0144a4a1-911f-4cae-39e9-98eb4f3e306b.htm" />
+            <HelpTOCNode Title="GetSingleEff(TContext, RT, T) Method " Url="html/61ef95ee-ec8b-ca8e-ab61-383599d01485.htm" />
+            <HelpTOCNode Title="RemoveEff(TContext, RT, T) Method " Url="html/303cbf49-220b-a466-6cf7-ca02b47d6d66.htm" />
+            <HelpTOCNode Title="SaveEff(TContext, RT, T) Method " Url="html/6c6fca6f-d114-99b7-c929-3a9f533f1171.htm" />
+            <HelpTOCNode Title="UpdateEff(TContext, RT, T) Method " Url="html/667b1f7d-af93-bf4b-188f-cde89319b1b2.htm" />
+            <HelpTOCNode Title="UseTransactionEff(TContext, RT, T) Method " Url="html/f6e91c11-790e-4966-c654-2093daf01135.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1c36493b-5aec-471e-945b-1c554e7722c0" Title="CTI.Common.Core.Extensions" Url="html/1fb51401-730d-0a23-ad86-bee01712c502.htm">
+        <HelpTOCNode Id="494e2c63-cd91-4e19-aa89-81b4d2adc6b6" Title="AsyncEnumerableExtensions Class" Url="html/6cd534ea-44fa-2a2f-9e4b-588edbad28e2.htm">
+          <HelpTOCNode Id="b0587e73-5f2b-46d1-b420-e8fff3e2ec02" Title="AsyncEnumerableExtensions Methods" Url="html/3a5660cf-d55b-2010-1656-b975360787d8.htm">
+            <HelpTOCNode Title="ToListAsync(T) Method " Url="html/056d39dd-7f0b-41b5-20bc-f116cea3463c.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="75e3c888-b8d4-472a-889c-a00413dbf013" Title="ErrorExtensions Class" Url="html/e1ac098d-4eed-2211-8712-0784d3a977a3.htm">
+          <HelpTOCNode Id="82ca60da-2659-45fe-8683-7fac44d9c6df" Title="ErrorExtensions Methods" Url="html/578cf1a0-c9a9-0e1d-aa38-0b328576d6f9.htm">
+            <HelpTOCNode Title="Join Method " Url="html/99dfddf6-fb62-6604-b506-aec3fb2fafe5.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="dea15a42-d36e-4d14-9dfd-33e39d9ab394" Title="MappingExtensions Class" Url="html/9f0f81dc-c5d1-c504-6548-ea006345b088.htm">
+          <HelpTOCNode Id="27a70a1f-32cb-4cdc-a20b-6e01d90efa53" Title="MappingExtensions Methods" Url="html/2d8f1d76-84e6-05a3-8faf-50e0d8a6607d.htm">
+            <HelpTOCNode Title="IgnoreBaseEntityProperties(TSource, TDestination) Method " Url="html/ccc1c8ac-267d-43e8-47af-2732ad39cc3d.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="a7f306bb-2f24-4e6b-9e34-1229e0ae6922" Title="ObjectExtensions Class" Url="html/7a157e78-e3f9-be56-8589-8fc686c25b1e.htm">
+          <HelpTOCNode Id="c36f8515-05c1-4ad6-b14b-46a6703819d2" Title="ObjectExtensions Methods" Url="html/5beafd33-23d7-3b9f-88b5-ebae569a8d62.htm">
+            <HelpTOCNode Title="ToDictionary(TValue) Method " Url="html/4ce0d3cf-b7ab-dfa2-1385-d31f4074474d.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="4a585680-2828-4f7d-95b6-3c3814ecc186" Title="QueryableExtensions Class" Url="html/66b02a2d-ed10-a025-a5e0-3de87bcf8e94.htm">
+          <HelpTOCNode Id="b20358ae-717e-4bb3-a8ad-c3041baa9473" Title="QueryableExtensions Methods" Url="html/1bfb5fcf-a219-de7f-7a7e-2a76388eeeef.htm">
+            <HelpTOCNode Title="ExistsAsync(T) Method " Url="html/d4f63738-b3c2-4f7e-2bdf-428413691ed8.htm" />
+            <HelpTOCNode Title="GetPage(T) Method " Url="html/d0fda707-fbbc-4f87-bfae-3acf0c7c5ffe.htm" />
+            <HelpTOCNode Title="GetPages(T) Method " Url="html/1bd6c975-d4a6-dbbe-473f-42fbb622bbda.htm" />
+            <HelpTOCNode Title="GetSingleAsync(T) Method " Url="html/3eb0fe74-5f9c-df9d-4c52-f980f45c3c58.htm" />
+            <HelpTOCNode Id="39a9109b-8e01-49db-89db-074d562b8d38" Title="MustExistAsync Method " Url="html/97560ff2-5e09-3c31-df62-0fa5a1774ef2.htm">
+              <HelpTOCNode Title="MustExistAsync(T) Method (IQueryable(T), Expression(Func(T, Boolean)), Boolean, CancellationToken)" Url="html/92797cf1-9329-eeef-f4db-f76487a0fccf.htm" />
+              <HelpTOCNode Title="MustExistAsync(T, TSuccess) Method (IQueryable(T), Expression(Func(T, Boolean)), Func(T, TSuccess), Func(Error), Boolean, CancellationToken)" Url="html/1cbb5ab6-7c40-22e0-8226-4b0179a2ca55.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="MustNotExistAsync(T, TSuccess) Method " Url="html/9947a81c-288d-384f-d498-4336a9ffcbcc.htm" />
+            <HelpTOCNode Title="NotExistsAsync(T) Method " Url="html/4415a626-cf36-c925-d719-37e3b67d0e60.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="4ddfe037-77bb-41c8-9609-093dba3d9d59" Title="StringExtensions Class" Url="html/b9c44a10-f309-2273-998d-142aef1f6edc.htm">
+          <HelpTOCNode Id="38c62df3-6c2f-4a0b-a616-b1c4c6698a39" Title="StringExtensions Methods" Url="html/bb75c099-1080-8f5a-3a27-d23ffd091a62.htm">
+            <HelpTOCNode Title="JsonPrettify Method " Url="html/39aa35ce-36b2-aa17-a564-2ab6ef6e4531.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f274d388-dabe-4ea1-9173-4bd6c4d66a34" Title="CTI.Common.Core.Modules" Url="html/8e9d52b7-407f-123e-deb0-febc2e332843.htm">
+        <HelpTOCNode Id="bd93385e-4bfa-4fad-8259-66a7dc46be51" Title="Context Class" Url="html/af93d602-d83d-758d-b2f5-7da9a9b0de5d.htm">
+          <HelpTOCNode Id="2244f7f7-e417-4497-b858-b35650bc40fb" Title="Context Methods" Url="html/f2cb7b63-634b-8ce9-0fc2-7841de5b97bd.htm">
+            <HelpTOCNode Title="AddEff(TContext, RT, TCommand, T) Method " Url="html/1ea31f3f-e04e-3e75-2ed6-97ccb138aac0.htm" />
+            <HelpTOCNode Title="AddOrUpdateEff(TContext, RT, TCommand, T) Method " Url="html/311eceb4-c90d-a009-579a-55811499df27.htm" />
+            <HelpTOCNode Title="DeleteEff(TContext, RT, TCommand, T) Method " Url="html/c99b11e9-3afb-1d74-d7da-0dd36556c0db.htm" />
+            <HelpTOCNode Title="UpdateEff(TContext, RT, TCommand, T) Method " Url="html/aa907d16-37a7-5dbd-4f36-e40279e2b0ca.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="8660f16e-e6e5-4edc-92be-ab9b2e88ef11" Title="PagedQuery Class" Url="html/a98d1632-4695-6254-7d78-0cc7bc5ae298.htm">
+          <HelpTOCNode Id="ee211dcd-ea80-4ec2-8e23-91a7c46d893c" Title="PagedQuery Constructor " Url="html/11ff9912-125d-9b7d-6c0d-8bd6d07d6b88.htm">
+            <HelpTOCNode Title="PagedQuery Constructor " Url="html/dd8f97c3-ac69-8434-e8fe-ba2f755d6286.htm" />
+            <HelpTOCNode Title="PagedQuery Constructor (Int32, Int32)" Url="html/414add6d-b47d-d245-2491-51d24994ad98.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="ebde6b31-53ed-4da8-8a1e-91a73e51762f" Title="PagedQuery Properties" Url="html/f888d5d5-4b19-1185-a755-411a1d5dbef2.htm">
+            <HelpTOCNode Title="PageNumber Property " Url="html/20eb666f-039e-aef1-8d91-8f1577d53273.htm" />
+            <HelpTOCNode Title="PageSize Property " Url="html/eaf0f943-21c8-263c-a787-390c9ecf8f5b.htm" />
+            <HelpTOCNode Title="SearchColumns Property " Url="html/e782c03e-f349-480b-9810-8233b67e8432.htm" />
+            <HelpTOCNode Title="SearchValue Property " Url="html/d4d001c0-af5a-9c89-cbb0-c186d14e47f4.htm" />
+            <HelpTOCNode Title="SortColumn Property " Url="html/10e52278-a43d-c1b1-2a5e-f366bf93fd74.htm" />
+            <HelpTOCNode Title="SortOrder Property " Url="html/bf6008a3-9df3-9fc9-ca46-e623c602d4bb.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="PagedQuery Methods" Url="html/4637f0c2-cf18-ac71-460b-969869353579.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1736c978-27c5-4a42-b54b-b9bb213dd24d" Title="PagedQueryHandler(TContext, TEntity, TQuery) Class" Url="html/207fae66-9e6d-86f1-7b81-673f0b419432.htm">
+          <HelpTOCNode Title="PagedQueryHandler(TContext, TEntity, TQuery) Constructor " Url="html/a9fc40a1-2cfb-9684-6450-b550330a037b.htm" />
+          <HelpTOCNode Id="3bf04f82-a432-4ad6-b1da-52f3d9d26a86" Title="PagedQueryHandler(TContext, TEntity, TQuery) Methods" Url="html/d77d4ddd-b7c0-d789-b919-b0eb7798789e.htm">
+            <HelpTOCNode Title="Handle Method " Url="html/347212ac-c573-f8cf-bc45-3eab9add68f6.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="dfc08ef6-fb8a-42cc-9c50-92d18d984bec" Title="PagedQueryHandler(TContext, TEntity, TQuery) Fields" Url="html/fb96eb27-441c-ec41-ba36-f2f16ef6464b.htm">
+            <HelpTOCNode Title="Context Field" Url="html/670caa6d-675a-a01e-53e4-3bbe3149a1e2.htm" />
+            <HelpTOCNode Title="Mapper Field" Url="html/46244b9a-aaa5-1c6d-c7a9-01e5d6cf4aae.htm" />
+            <HelpTOCNode Title="Runtime Field" Url="html/8a6759d4-8f14-f2cf-238c-604e4d7af505.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="3ed064a6-259b-4745-aa2d-5b78beb4df63" Title="QueryById Class" Url="html/802028f1-dfa2-c9ec-3f8d-24d3f075b20d.htm">
+          <HelpTOCNode Title="QueryById Constructor " Url="html/4188dae9-155c-7fbe-93f9-4be793d13d47.htm" />
+          <HelpTOCNode Id="9078ff04-91d1-4782-9548-50f553d7bd26" Title="QueryById Properties" Url="html/56c74a94-355b-eabf-0e31-58caa054b009.htm">
+            <HelpTOCNode Title="Id Property " Url="html/92644d7b-7d34-efa0-4eef-96c1822937a5.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="QueryById Methods" Url="html/b34cfca4-7e8e-b9ae-9db1-e5540452e5fd.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b5ab0ca4-24eb-45d2-acd5-68a67a27433a" Title="QueryByIdHandler(TContext, TEntity, TQuery) Class" Url="html/482b3560-dc66-03bf-582b-44a23928b386.htm">
+          <HelpTOCNode Title="QueryByIdHandler(TContext, TEntity, TQuery) Constructor " Url="html/69d8c4fa-39c1-7af5-3b61-8caac05b81ed.htm" />
+          <HelpTOCNode Id="b6c5ccd7-d8cb-4da2-b175-339c7b6a2346" Title="QueryByIdHandler(TContext, TEntity, TQuery) Methods" Url="html/c60060b1-222e-ea89-bd7e-685a45f455c9.htm">
+            <HelpTOCNode Title="Handle Method " Url="html/b205a394-c489-2372-f40f-f681e4c7e26f.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="119cbff7-aee4-447b-9f92-fd6a920e65b2" Title="QueryByIdHandler(TContext, TEntity, TQuery) Fields" Url="html/11d2b3bb-7201-b767-a017-68bc5d82c3e8.htm">
+            <HelpTOCNode Title="Context Field" Url="html/573e7d30-0fba-f29b-d5b0-6caa69bf2a79.htm" />
+            <HelpTOCNode Title="Mapper Field" Url="html/a4b628e7-27ce-3676-929d-8d76273ada2a.htm" />
+            <HelpTOCNode Title="Runtime Field" Url="html/a3bf694e-34b3-294b-e6e8-4ad06e1e728e.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="34074c7c-7458-4c4f-8700-4583dface0c4" Title="CTI.Common.Core.Traits" Url="html/943e7fe8-3911-c74e-bdc8-6d4580c6789e.htm">
+        <HelpTOCNode Id="913e5190-f28c-4835-9103-e38afbf7e755" Title="HasDbContext(TContext, RT) Interface" Url="html/7fd5cee2-94eb-ac36-84fd-c90ebb910a37.htm">
+          <HelpTOCNode Id="3f6d51d5-6b86-4424-9b02-1fd45e0b0690" Title="HasDbContext(TContext, RT) Properties" Url="html/5aaaf6e5-1483-ab3c-1a5f-0e91ee27b494.htm">
+            <HelpTOCNode Title="Context Property " Url="html/33d3fdab-06cc-2a1b-9bc2-e500505a517b.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="8da8230e-e6e8-42aa-97d7-c881d1e5a695" Title="HasMapper(RT) Interface" Url="html/5fcbeb48-055d-9b7e-1bbb-c6b68301b147.htm">
+          <HelpTOCNode Id="d6bc7c28-e431-4eb6-9b88-2d1b444e97bc" Title="HasMapper(RT) Properties" Url="html/4b20dff3-dedf-73c0-bf34-406f1113d1ca.htm">
+            <HelpTOCNode Title="Mapper Property " Url="html/87e800c4-b95d-eace-2096-285e7a662692.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="befc1496-f94a-435c-ad1f-0e4bb2fbb051" Title="LiveRuntime(TContext) Structure" Url="html/b1782300-fd23-98c5-4d1f-4eee14dd8ccc.htm">
+          <HelpTOCNode Title="LiveRuntime(TContext) Constructor " Url="html/8a1bf022-90a8-ff4a-b26f-dc3c34c3f6ea.htm" />
+          <HelpTOCNode Id="5ad1896c-cbf6-4530-9ed4-d77aabf0c0f9" Title="LiveRuntime(TContext) Properties" Url="html/7e9a918b-c270-5b8f-76bb-c769ce33817c.htm">
+            <HelpTOCNode Title="CancellationToken Property " Url="html/2288a6ff-036f-af2a-9355-7a67e7354c16.htm" />
+            <HelpTOCNode Title="CancellationTokenSource Property " Url="html/20b89db2-9385-d121-f767-476f18ce382a.htm" />
+            <HelpTOCNode Title="Context Property " Url="html/fcd976c3-a55d-875d-44a2-fc03de305193.htm" />
+            <HelpTOCNode Title="LocalCancel Property " Url="html/6ad11bb9-1c3c-69c6-f955-ec15a4ae907d.htm" />
+            <HelpTOCNode Title="Mapper Property " Url="html/d56b76b1-c12b-fa62-7c54-1e9885f2769d.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="LiveRuntime(TContext) Methods" Url="html/e5ffd99f-854e-0973-19db-c55faa0888c7.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="56dc0f3e-0271-4c47-ac17-832f784f4474" Title="CTI.Common.Core.Types" Url="html/30c4085e-b73e-9c95-e4a1-36ce505e6de7.htm">
+        <HelpTOCNode Title="Cont(T) Delegate" Url="html/e825abf6-6571-f372-a612-f4e459d6c57c.htm" />
+        <HelpTOCNode Id="bad23e28-706a-41d9-9ac8-752ccea02672" Title="ContExtensions Class" Url="html/00a0bfeb-53ca-0797-342d-22b56f3623e0.htm">
+          <HelpTOCNode Id="dd3ceec8-6425-4e51-8eb0-879845219e4f" Title="ContExtensions Methods" Url="html/5965a88c-9c71-89ff-fd32-a31f018bb226.htm">
+            <HelpTOCNode Id="98efb15a-176d-4490-85ad-1f8711795ddb" Title="Bind Method " Url="html/8c822fcb-7d5a-f8d6-77a4-fe3efc80647a.htm">
+              <HelpTOCNode Title="Bind(T, R) Method (Cont(T), Func(T, Cont(R)))" Url="html/1efd1e87-7dcb-30ab-6ac4-838b0a4f55a4.htm" />
+              <HelpTOCNode Title="Bind(T, R, A) Method (Middleware(T, A), Func(T, Middleware(R, A)))" Url="html/cb4ee59f-87d6-3a8f-2133-236cb111c633.htm" />
+              <HelpTOCNode Title="Bind(T, R) Method (MiddlewareDynamic(T), Func(T, MiddlewareDynamic(R)))" Url="html/298b127f-ab3e-1fc8-5b8c-7229b3a83d7e.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="03c32e64-21d6-42bf-ac88-49c6fe61cc5f" Title="Map Method " Url="html/e25462f1-6330-756e-e683-ca9e528bdfb8.htm">
+              <HelpTOCNode Title="Map(T, R) Method (Cont(T), Func(T, R))" Url="html/75b864c0-2aad-f696-2f7e-768934759517.htm" />
+              <HelpTOCNode Title="Map(T, R, A) Method (Middleware(T, A), Func(T, R))" Url="html/06dce73d-b7c1-fa48-982e-3a01def3acef.htm" />
+              <HelpTOCNode Title="Map(T, R) Method (MiddlewareDynamic(T), Func(T, R))" Url="html/cf952794-db91-e7b6-3ef5-eff5fe70c6bc.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="6afb53e0-b8e1-49a8-93de-8f7f86c19c17" Title="Run Method " Url="html/a5b323cd-ac45-2bd7-e887-5793b67cd5f0.htm">
+              <HelpTOCNode Title="Run(T) Method (MiddlewareDynamic(T))" Url="html/00e39a1a-6ee6-701d-e2bf-a84019bb6e2f.htm" />
+              <HelpTOCNode Title="Run(T) Method (Cont(T), Action(T))" Url="html/16101312-edbf-1de3-cbaf-468276076a78.htm" />
+              <HelpTOCNode Title="Run(T, A) Method (Middleware(T, A), Func(T, A))" Url="html/deec5a65-0933-7f04-babb-8127a46e12be.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="fa425e0f-0f39-4032-9ccf-3121c441de4a" Title="Select Method " Url="html/035b052f-0472-ce0d-9634-ee9ff25357da.htm">
+              <HelpTOCNode Title="Select(T, R) Method (Cont(T), Func(T, R))" Url="html/d1132139-9dc7-e0a0-17f4-b77149278bba.htm" />
+              <HelpTOCNode Title="Select(T, R, A) Method (Middleware(T, A), Func(T, R))" Url="html/d6c90206-ce05-986f-2fd3-6c397201b4bb.htm" />
+              <HelpTOCNode Title="Select(T, R) Method (MiddlewareDynamic(T), Func(T, R))" Url="html/01bc74bc-395f-e7fe-b485-34501f7732ae.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="bc7cc61a-f889-43bf-a15b-6ddf5efaa7d8" Title="SelectMany Method " Url="html/a0bcdeb5-4527-cef3-e05b-9903fc2bb4df.htm">
+              <HelpTOCNode Title="SelectMany(T, R) Method (Cont(T), Func(T, Cont(R)))" Url="html/0a1e418b-b1d9-ca38-2daa-3ccfca227635.htm" />
+              <HelpTOCNode Title="SelectMany(T, R, A) Method (Middleware(T, A), Func(T, Middleware(R, A)))" Url="html/29d2d902-6f21-e6b7-6f6c-3dbbaec9f438.htm" />
+              <HelpTOCNode Title="SelectMany(T, R) Method (MiddlewareDynamic(T), Func(T, MiddlewareDynamic(R)))" Url="html/8e159d76-48f6-3df0-b1f3-7b2e1df1ac73.htm" />
+              <HelpTOCNode Title="SelectMany(T, R, RR) Method (Cont(T), Func(T, Cont(R)), Func(T, R, RR))" Url="html/ba6bda88-11b7-bc9c-53f8-9d3eb51b0f84.htm" />
+              <HelpTOCNode Title="SelectMany(T, R, RR, A) Method (Middleware(T, A), Func(T, Middleware(R, A)), Func(T, R, RR))" Url="html/f264b408-d20a-35dc-26d5-0977f9885289.htm" />
+              <HelpTOCNode Title="SelectMany(T, R, RR) Method (MiddlewareDynamic(T), Func(T, MiddlewareDynamic(R)), Func(T, R, RR))" Url="html/12ffd935-cee2-a1c4-f95b-c669f00073ce.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Title="Middleware(T, A) Delegate" Url="html/5aa60723-a178-4d6c-1ac9-455ebcce584f.htm" />
+        <HelpTOCNode Title="MiddlewareDynamic(T) Delegate" Url="html/c159b350-ec30-6940-c510-68c2e67a544f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d4771b68-ad80-4671-9262-2f068cfec3b3" Title="CTI.Common.Core.Validators" Url="html/5dc0d6bc-50e7-6583-7c96-4e2c96d31df4.htm">
+        <HelpTOCNode Id="9e0a5b74-febc-479c-875b-68535d374f9e" Title="CompositeValidator(T) Class" Url="html/6d70acc0-6804-a37b-3cfb-514179c87ec8.htm">
+          <HelpTOCNode Title="CompositeValidator(T) Constructor " Url="html/78be93aa-ebf6-ebdf-655d-8b46c8a2912a.htm" />
+          <HelpTOCNode Id="8652ff64-c317-4708-add5-5f5eebca5319" Title="CompositeValidator(T) Methods" Url="html/a52bae8e-ec8b-234b-15b8-3f14cc0367ee.htm">
+            <HelpTOCNode Title="CanValidateInstancesOfType Method " Url="html/2b7c3679-835e-0967-e73d-ecaa0e725fed.htm" />
+            <HelpTOCNode Title="CreateDescriptor Method " Url="html/a80134f2-ac9a-e8e8-f386-607b35de1ffc.htm" />
+            <HelpTOCNode Id="0c5f8bb6-d816-4e6f-9819-908025468c34" Title="Validate Method " Url="html/6e5c0e8e-0904-2792-1ed1-db772751ddfb.htm">
+              <HelpTOCNode Title="Validate Method (T)" Url="html/a67ad0ae-e815-d608-f3d0-1aa1f43a7508.htm" />
+              <HelpTOCNode Title="Validate Method (IValidationContext)" Url="html/234a939d-c192-a093-e6bb-0c9f985ecac2.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="691e9462-8d2a-475d-b6a2-32a36f496e0f" Title="ValidateAsync Method " Url="html/5e76623d-bc5a-80f0-5fca-64977ba6c0f0.htm">
+              <HelpTOCNode Title="ValidateAsync Method (T, CancellationToken)" Url="html/97b8ceb8-91be-49ff-68de-10b0479848c1.htm" />
+              <HelpTOCNode Title="ValidateAsync Method (IValidationContext, CancellationToken)" Url="html/0ac08147-e4dd-c458-a9ed-3c5510552837.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="27f4fde0-dd7a-4d99-bdec-a562653defee" Title="ValidatorExtensions Class" Url="html/0347de95-98f4-3f53-dd36-6104ead90a81.htm">
+          <HelpTOCNode Id="521a3d61-13b3-4123-9b60-2990a50179d3" Title="ValidatorExtensions Methods" Url="html/cc49f4bc-0693-bf59-bd92-4a714534e331.htm">
+            <HelpTOCNode Title="ToAff(T) Method " Url="html/22b9a2b6-824a-b5a6-8d54-72f9c27a9b55.htm" />
+            <HelpTOCNode Title="ToAffAsync(T) Method " Url="html/dd6633cb-6c36-14f3-de88-e636b0b75c42.htm" />
+            <HelpTOCNode Title="ToFin(T) Method " Url="html/29fee3e1-4fc3-5e60-5ecf-61b22b9c3962.htm" />
+            <HelpTOCNode Title="ToFinAsync(T) Method " Url="html/6e92b00b-2b11-49dd-6067-c85bb3b5d0e4.htm" />
+            <HelpTOCNode Title="ToValidation(T) Method " Url="html/991f02a2-6f6e-69fc-0d7d-4ee6f3950626.htm" />
+            <HelpTOCNode Title="ToValidationAsync(T) Method " Url="html/3706adf0-ad40-8861-97b1-a1390aabe244.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="865d704b-62b1-4d89-bdc0-fb33f8f72620" Title="Validators Class" Url="html/ecca14bc-3469-dc43-c2a6-26f507cf6d06.htm">
+          <HelpTOCNode Id="5c177f67-7173-47dc-9122-5dc55919cae4" Title="Validators Methods" Url="html/ddb6c816-8bd4-1def-0795-fc22e798634a.htm">
+            <HelpTOCNode Title="AtLeast Method " Url="html/cf5a8d9a-d210-7390-ce19-1fefdb33caaa.htm" />
+            <HelpTOCNode Title="AtMost Method " Url="html/1be03f83-03d8-f96e-78cb-efcd89d61aad.htm" />
+            <HelpTOCNode Title="NotEmpty Method " Url="html/c0042d6e-4aaf-88bd-0670-76607b756fc2.htm" />
+            <HelpTOCNode Title="NotLongerThan Method " Url="html/2bfd3371-c29a-8b4a-6297-fa180cfd96a1.htm" />
+            <HelpTOCNode Title="ValidEmail Method " Url="html/e729ddad-0204-7647-52fa-1e643a455174.htm" />
+            <HelpTOCNode Title="ValidNumber Method " Url="html/02ff7f95-666c-48b3-d100-b632c80f75bc.htm" />
+            <HelpTOCNode Title="ValidPhoneNumber Method " Url="html/6dcd2b01-3938-10e7-4572-da79b6c110de.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fb1965a3-171c-426a-aac4-2f89cfd63b77" Title="CTI.Common.Web Namespaces" Url="html/d86bd9e9-4f31-4f4b-34f8-3b04fb97d1ec.htm">
+      <HelpTOCNode Id="e7e7d63b-946e-48c1-adcc-736c0c53dccc" Title="CTI.Common.Web.Annotations" Url="html/6d9aa386-b862-d7b8-b7be-1f95448e2fab.htm">
+        <HelpTOCNode Id="6e099877-f1a2-48dc-9056-9492e338cb67" Title="BaseValidationAttribute Class" Url="html/338a4444-a516-2e9e-d3d0-df0d867474db.htm">
+          <HelpTOCNode Title="BaseValidationAttribute Constructor " Url="html/cf79893f-2ae3-2797-fc74-20cf080215ef.htm" />
+          <HelpTOCNode Title="BaseValidationAttribute Properties" Url="html/ed1203e0-8146-ae7c-45b4-0c0293ed3e29.htm" />
+          <HelpTOCNode Id="c1f6418b-3457-40d0-861b-a34eaae06f13" Title="BaseValidationAttribute Methods" Url="html/722f9060-b060-6f2a-3a5c-e5b28eaec826.htm">
+            <HelpTOCNode Title="GetDisplayNameForProperty Method " Url="html/2f8cbccc-080d-08a4-2985-e4e8bb625d0d.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="a66d08b3-dd8f-4726-8168-050b2bf9bb96" Title="CustomValidationAttributeAdapterProvider Class" Url="html/b2b7101a-66b1-a915-6ac2-3b4ffd9a61a2.htm">
+          <HelpTOCNode Title="CustomValidationAttributeAdapterProvider Constructor " Url="html/baad8019-1da9-78f9-feb7-251a7784dcc6.htm" />
+          <HelpTOCNode Id="2a6f3778-6646-46ae-b4bc-048c686f4c97" Title="CustomValidationAttributeAdapterProvider Methods" Url="html/72bfec3f-e751-c7d1-7f2c-0ee1944344ed.htm">
+            <HelpTOCNode Title="GetAttributeAdapter Method " Url="html/5a381d94-e909-6787-a6f4-231f6bd923ac.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="f0ab29ed-d62a-4d15-83fa-b583db1f6cf6" Title="FormValueRequiredAttribute Class" Url="html/a77bc3cd-56e8-3872-f6ce-b5b4dcbe5c3b.htm">
+          <HelpTOCNode Title="FormValueRequiredAttribute Constructor " Url="html/7d99d1ad-d991-084f-9711-258572d6c39f.htm" />
+          <HelpTOCNode Title="FormValueRequiredAttribute Properties" Url="html/18b1c12b-9512-2089-7062-06e808089a93.htm" />
+          <HelpTOCNode Id="ef47efd2-693c-4b40-ba60-9e0d8990ca2c" Title="FormValueRequiredAttribute Methods" Url="html/12d94046-539a-63d4-dda9-67ccf3c2d230.htm">
+            <HelpTOCNode Id="9a012503-830a-40a6-a613-3a4ebf8cf9fc" Title="IsValidForRequest Method " Url="html/9aa7ebdc-9525-c05f-a19e-581862b2e446.htm">
+              <HelpTOCNode Title="IsValidForRequest Method (RouteContext, ActionDescriptor)" Url="html/9f908aed-19f5-b7b9-b70a-5eb0e2e5ea44.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="8e9ed3e3-e7b5-474c-a8b1-b6a27da765ef" Title="GreaterThanAttribute Class" Url="html/ea5fbdc9-b09d-4f54-dd3c-a6742e433fce.htm">
+          <HelpTOCNode Title="GreaterThanAttribute Constructor " Url="html/07b741f8-d8e7-cca1-396c-5d85c1306951.htm" />
+          <HelpTOCNode Id="62f3795c-2b52-4250-84f2-de23d9da879b" Title="GreaterThanAttribute Properties" Url="html/44044ff3-1b96-e4d3-b80b-74327a20c667.htm">
+            <HelpTOCNode Title="OtherProperty Property " Url="html/0c560353-6c1e-4930-ae40-8c8cbe847eff.htm" />
+            <HelpTOCNode Title="OtherPropertyDisplayName Property " Url="html/c4a3f33e-31f8-b5c3-b6cc-920e612d0b8c.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="6c01e912-6226-43a8-b2b2-5c1b0005171b" Title="GreaterThanAttribute Methods" Url="html/1f0c419f-32e0-9a1f-13d9-08c1f23a7aea.htm">
+            <HelpTOCNode Title="FormatErrorMessage Method " Url="html/130b478e-e945-ee57-1731-c9a394e1e10b.htm" />
+            <HelpTOCNode Id="6df09063-7fa9-45cb-9a37-6d5c2af6e237" Title="IsValid Method " Url="html/0cb877a6-21b1-3e3f-8fc4-2b5af27c47b6.htm">
+              <HelpTOCNode Title="IsValid Method (Object, ValidationContext)" Url="html/09028e2c-584f-c19a-89fa-47f5fdb5ccd9.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="539ce32d-fe83-422f-bb3b-f5fc68093c8b" Title="GreaterThanAttributeAdapter Class" Url="html/4ea65708-c129-3dcd-2f6e-b7048e1e4b7a.htm">
+          <HelpTOCNode Title="GreaterThanAttributeAdapter Constructor " Url="html/67f1a445-1f3d-48ae-35ba-925e5dc85ba4.htm" />
+          <HelpTOCNode Title="GreaterThanAttributeAdapter Properties" Url="html/e0828758-ee54-87ec-1a4f-0d1b587f55da.htm" />
+          <HelpTOCNode Id="13729328-f584-420f-a0ad-2326ba622c3e" Title="GreaterThanAttributeAdapter Methods" Url="html/08055475-c3a6-0acd-c7d8-8bf595dac364.htm">
+            <HelpTOCNode Id="8506c883-7081-45e3-80b9-b7b4908ab951" Title="AddValidation Method " Url="html/2cfac9b1-1131-1930-22a7-c91f1d138e45.htm">
+              <HelpTOCNode Title="AddValidation Method (ClientModelValidationContext)" Url="html/6d904be6-9f6d-57c2-f51c-ff1ecddbf8f1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="82e0c87b-3d4e-465a-9aa2-4e7e68e39f79" Title="GetErrorMessage Method " Url="html/6e4e138d-51a0-08f4-4b8a-6748cb33592c.htm">
+              <HelpTOCNode Title="GetErrorMessage Method (ModelValidationContextBase)" Url="html/d6e87d8d-4808-7fbc-5752-71eb72376bcd.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="5c2db39c-26e7-4011-a189-5e20d4dc66dd" Title="GreaterThanEqualAttribute Class" Url="html/fa969fd2-d847-032a-ff1d-8b0eb95c470b.htm">
+          <HelpTOCNode Title="GreaterThanEqualAttribute Constructor " Url="html/e64f7743-4ab8-a6dc-858c-1198a278f8f9.htm" />
+          <HelpTOCNode Id="7b757829-48e5-4935-8abe-18af79a7fa0d" Title="GreaterThanEqualAttribute Properties" Url="html/2954b4ac-d50f-f874-8e8c-9764ac41e482.htm">
+            <HelpTOCNode Title="OtherProperty Property " Url="html/6b873e0d-ebd9-3a6a-7b38-da75187d658a.htm" />
+            <HelpTOCNode Title="OtherPropertyDisplayName Property " Url="html/81ba37e4-a4af-1589-7b07-37117490ce0b.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="a17cba4b-32fb-492b-94f2-d84cc37f3231" Title="GreaterThanEqualAttribute Methods" Url="html/bbc5ad44-c39d-588c-b663-07c4edf7c6d3.htm">
+            <HelpTOCNode Title="FormatErrorMessage Method " Url="html/634f7789-43e0-6dbd-bf64-0f449489f5a3.htm" />
+            <HelpTOCNode Id="368890ac-737b-47fa-bdf2-de71d32b5a1c" Title="IsValid Method " Url="html/8e7d2f0e-a866-8d9a-84af-8ffb5faab2a0.htm">
+              <HelpTOCNode Title="IsValid Method (Object, ValidationContext)" Url="html/78464e55-5b64-50d0-a51a-612b06b71a7b.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="255dd11a-0640-4225-9521-89445eccd110" Title="GreaterThanEqualAttributeAdapter Class" Url="html/2d08b003-d4b7-e40c-ce28-536d89112cc1.htm">
+          <HelpTOCNode Title="GreaterThanEqualAttributeAdapter Constructor " Url="html/bfbdda2b-be5d-9102-a247-c33e7ad8eb02.htm" />
+          <HelpTOCNode Title="GreaterThanEqualAttributeAdapter Properties" Url="html/d14416f0-6ac5-d3c9-0e8e-90dec869a15f.htm" />
+          <HelpTOCNode Id="4e414818-f992-48a9-a780-a6dadd6b0718" Title="GreaterThanEqualAttributeAdapter Methods" Url="html/f42ee37d-c383-8345-bdfa-2908a6c21904.htm">
+            <HelpTOCNode Id="3e08d044-3aed-49e1-bfa1-3f5c2809ba36" Title="AddValidation Method " Url="html/3c1507d2-e340-0045-9ed6-2576f000957c.htm">
+              <HelpTOCNode Title="AddValidation Method (ClientModelValidationContext)" Url="html/f717d70c-d6a9-1fa8-3f3a-d4281cef68e4.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="4c023a1e-c04c-42de-a2aa-050fe67bfe2d" Title="GetErrorMessage Method " Url="html/421e32f8-61ea-6b72-0afe-c2f5e164c1d2.htm">
+              <HelpTOCNode Title="GetErrorMessage Method (ModelValidationContextBase)" Url="html/b57f5737-66df-8fb4-aa6a-80bad1f144fd.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="2e656cfd-5bfb-41f3-8993-2179999834b1" Title="LessThanAttribute Class" Url="html/624d1d39-8270-4f58-0c8d-962e641a92ac.htm">
+          <HelpTOCNode Title="LessThanAttribute Constructor " Url="html/af3ece8b-6179-a56a-822e-a1b70d96b60c.htm" />
+          <HelpTOCNode Id="5b21aabd-229d-4de2-82bc-d459abb400e1" Title="LessThanAttribute Properties" Url="html/a4a5fd2e-43c8-4484-601e-4341a3e21d4f.htm">
+            <HelpTOCNode Title="OtherProperty Property " Url="html/0e1204b9-7d03-39a1-cc18-8abd676051be.htm" />
+            <HelpTOCNode Title="OtherPropertyDisplayName Property " Url="html/c71b8240-d7c2-5317-3d44-7b8d7c45a22f.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="545e8755-7f46-48a2-b205-34cc8dd82a13" Title="LessThanAttribute Methods" Url="html/35ba9772-903d-ea7d-d7ee-a20f760c294a.htm">
+            <HelpTOCNode Title="FormatErrorMessage Method " Url="html/643898ca-d08e-780e-4d3c-95440a3297ce.htm" />
+            <HelpTOCNode Id="7a20b320-a98f-498a-a089-7b73da5baa88" Title="IsValid Method " Url="html/d8835fd6-7087-2a1f-55ff-9d590466dd77.htm">
+              <HelpTOCNode Title="IsValid Method (Object, ValidationContext)" Url="html/aaa1dd49-5938-d728-2c08-8b3ceb7d5bed.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="7a5776a6-7480-4601-bde1-a9753ad7b189" Title="LessThanAttributeAdapter Class" Url="html/302ed516-ab68-bcf7-0b14-d7b4f974357c.htm">
+          <HelpTOCNode Title="LessThanAttributeAdapter Constructor " Url="html/20b63859-4dbb-a51b-d41c-24b669065c4f.htm" />
+          <HelpTOCNode Title="LessThanAttributeAdapter Properties" Url="html/67e13e1d-ee54-848b-764f-3b4a262a9151.htm" />
+          <HelpTOCNode Id="ccde7d6f-e473-4e18-9889-92a9bb4d6b95" Title="LessThanAttributeAdapter Methods" Url="html/21252b33-6b88-b128-8753-41d909354158.htm">
+            <HelpTOCNode Id="84635f52-2172-4073-a8ad-6a118c536e87" Title="AddValidation Method " Url="html/963f4405-6c5d-ec2f-d845-8459db1347a6.htm">
+              <HelpTOCNode Title="AddValidation Method (ClientModelValidationContext)" Url="html/0b5ab68b-ab38-bc45-cb12-8770de6f0206.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="ee4a65cd-1c7c-4f8a-b652-ff8a8612505a" Title="GetErrorMessage Method " Url="html/0ea1c928-9928-a555-8906-2065adb4825d.htm">
+              <HelpTOCNode Title="GetErrorMessage Method (ModelValidationContextBase)" Url="html/055ea73f-411d-a3ec-97c5-20b573884099.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="d1197cfa-8e53-4ed5-a0b6-25dc7d0bd7b9" Title="LessThanEqualAttribute Class" Url="html/1c02159e-ccd0-effd-9bd6-20d194a192f6.htm">
+          <HelpTOCNode Title="LessThanEqualAttribute Constructor " Url="html/4f9ce183-a476-30a7-ff4a-c30b2c8957cc.htm" />
+          <HelpTOCNode Id="b09071a4-f4fe-46af-94ae-268dfa7f6537" Title="LessThanEqualAttribute Properties" Url="html/d6f62c48-bf09-3726-118e-9639a813c661.htm">
+            <HelpTOCNode Title="OtherProperty Property " Url="html/daa5fabc-a9ff-ba87-d3a7-96e3c549d2e9.htm" />
+            <HelpTOCNode Title="OtherPropertyDisplayName Property " Url="html/0d2619be-a52a-4817-c38d-ed1791b1b20f.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="09bc38be-44fb-4cf6-b8ca-91ab8203749a" Title="LessThanEqualAttribute Methods" Url="html/d2d14236-5795-22dc-ca98-f043a561512e.htm">
+            <HelpTOCNode Title="FormatErrorMessage Method " Url="html/0f008459-cb37-6c95-14fb-ea48b4e9c22d.htm" />
+            <HelpTOCNode Id="49096f4a-dd27-44fa-af78-836d771c6fbd" Title="IsValid Method " Url="html/1cc3e555-a18e-f5e0-de06-8a6fd308679e.htm">
+              <HelpTOCNode Title="IsValid Method (Object, ValidationContext)" Url="html/aed04d58-9c56-fbd5-2dac-5b86473edeac.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="5b36d983-9cc0-4db5-a2a2-5d85eb9d8efc" Title="LessThanEqualAttributeAdapter Class" Url="html/deeb658d-051b-d6ac-5a6c-cd1bf50e4cbd.htm">
+          <HelpTOCNode Title="LessThanEqualAttributeAdapter Constructor " Url="html/9f0c6b62-924f-bcd5-f37c-80fb60c6df2d.htm" />
+          <HelpTOCNode Title="LessThanEqualAttributeAdapter Properties" Url="html/792007c1-d6c3-b5e6-2337-b8a56c0d7333.htm" />
+          <HelpTOCNode Id="c295ac6a-43b7-46e9-9239-8f9393613bfe" Title="LessThanEqualAttributeAdapter Methods" Url="html/78e816ad-ddac-1f0b-5415-6277ff62b7c3.htm">
+            <HelpTOCNode Id="81c5761a-9937-4bd8-86d1-fe6372ba309b" Title="AddValidation Method " Url="html/6ae4cba0-add8-35e4-c0c1-e8412c21b9ee.htm">
+              <HelpTOCNode Title="AddValidation Method (ClientModelValidationContext)" Url="html/7d701614-11f7-12fc-1726-3079be8730db.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="1e3dd35d-41d2-4dde-b8ae-137f336234e3" Title="GetErrorMessage Method " Url="html/1188a260-0f98-b274-da3e-fc5f61f044ca.htm">
+              <HelpTOCNode Title="GetErrorMessage Method (ModelValidationContextBase)" Url="html/d29355d8-10c7-33a8-fa57-1008d2af12be.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="08aeda7e-9839-4ac0-9517-0d16389c4e59" Title="CTI.Common.Web.Authorization" Url="html/e368c9c2-58bd-89f2-9911-88c6c4b12606.htm">
+        <HelpTOCNode Id="64e32f48-304a-40e9-9f83-0ddd83d207e8" Title="AuthorizationClaimTypes Class" Url="html/87c431b7-79d9-e26d-6050-314964ee8895.htm">
+          <HelpTOCNode Title="AuthorizationClaimTypes Constructor " Url="html/5595fa44-a1b5-0420-b001-c267deeb5ad1.htm" />
+          <HelpTOCNode Title="AuthorizationClaimTypes Methods" Url="html/11b50769-0ce7-8910-e929-9d0f053d43d3.htm" />
+          <HelpTOCNode Id="4ee3c6af-c80a-4748-b3cf-d189e578ec68" Title="AuthorizationClaimTypes Fields" Url="html/3298a084-71df-6bf9-335f-72eef56a03e6.htm">
+            <HelpTOCNode Title="Permission Field" Url="html/feba366f-dd01-1c65-9b95-8e76fb5e6ae2.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="6e7e8a6d-e8ac-4a34-840b-e45fdf2e1aa3" Title="AuthorizationExtensions Class" Url="html/11f0ed30-8d1d-a116-84cf-8667b5da3700.htm">
+          <HelpTOCNode Id="6dff6380-cecd-4f3d-a1e4-d9d545c17f25" Title="AuthorizationExtensions Methods" Url="html/d803a63e-fd64-4ef7-d546-6bf6ff94021a.htm">
+            <HelpTOCNode Title="HasPermission Method " Url="html/da9016cf-209c-9ab8-cf12-af3d56c8073c.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="2ea005ae-349f-4253-ae9e-ea8b97ce3e82" Title="PermissionAuthorizationHandler Class" Url="html/277ef268-7714-896b-bb66-0889878c009f.htm">
+          <HelpTOCNode Title="PermissionAuthorizationHandler Constructor " Url="html/3cc4ea50-723b-30e5-bc7c-7e6cca6da32e.htm" />
+          <HelpTOCNode Id="83150aa7-6b75-418d-97d2-6950c3e5c159" Title="PermissionAuthorizationHandler Methods" Url="html/431b3392-27ac-072d-150d-c83e9115d44b.htm">
+            <HelpTOCNode Title="HandleRequirementAsync Method " Url="html/997414d9-b69d-3e9a-a9d9-045697fca549.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="e41b5e13-fae5-4a52-b2f1-981e9da78226" Title="PermissionPolicyProvider Class" Url="html/8bc86c49-df0a-541d-41c9-e11c52738536.htm">
+          <HelpTOCNode Title="PermissionPolicyProvider Constructor " Url="html/33612c80-a672-c9ba-2e6e-0a81f6d9c3ee.htm" />
+          <HelpTOCNode Id="306ac945-b4d6-481c-88e6-ed78988c059b" Title="PermissionPolicyProvider Properties" Url="html/5f2ead13-69ca-094b-7e9b-da3122d69c33.htm">
+            <HelpTOCNode Title="FallbackPolicyProvider Property " Url="html/3374af13-9ccc-a576-9b66-3f8c48b3afe7.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="7d1d4719-6bc3-4f95-a111-50540d116252" Title="PermissionPolicyProvider Methods" Url="html/0ac41e20-357c-575b-841c-e6a67fdac548.htm">
+            <HelpTOCNode Title="GetDefaultPolicyAsync Method " Url="html/4ccb5a10-9b5a-0135-4aa1-7dae9d9ac14c.htm" />
+            <HelpTOCNode Title="GetFallbackPolicyAsync Method " Url="html/8f65231a-cc93-a246-9fc5-4ea1b95eb175.htm" />
+            <HelpTOCNode Title="GetPolicyAsync Method " Url="html/d156b1b3-064a-8342-5006-8957a227c7a6.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="82737ddf-aa8e-41a5-8843-bd511afbe240" Title="PermissionRequirement Class" Url="html/e9775aad-f13a-b882-351e-2a057984e975.htm">
+          <HelpTOCNode Title="PermissionRequirement Constructor " Url="html/749a9a69-e1d6-8820-4e3a-5162bd67d137.htm" />
+          <HelpTOCNode Id="690cc5d7-f389-4e43-a938-cbb69fdfdd42" Title="PermissionRequirement Properties" Url="html/644c1366-d85b-d0db-b4ec-c23a20d12e2d.htm">
+            <HelpTOCNode Title="Permission Property " Url="html/9cf83c41-5bc0-325c-5d83-ffe9eaae1d63.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="PermissionRequirement Methods" Url="html/7338ec9f-9733-35b3-1335-0bd6d1990b9d.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="166bab96-c2fa-4b29-8932-6034ea367379" Title="CTI.Common.Web.Extensions" Url="html/3205ed1e-ffe3-1fd4-b38b-a01c94bb3218.htm">
+        <HelpTOCNode Title="Common Class" Url="html/b5357a5d-a157-77e6-952a-b07609b5ac1d.htm" />
+        <HelpTOCNode Id="e5cd7fba-0a06-4701-b0ff-aac07e7db471" Title="EitherToActionResult Class" Url="html/c2d1fbe2-2838-6766-a72b-f205becfc0bd.htm">
+          <HelpTOCNode Id="b3bba527-b72f-49b5-ad7c-cf363d9cae17" Title="EitherToActionResult Methods" Url="html/92badbef-96ea-7d33-63e0-1bfabaea7df6.htm">
+            <HelpTOCNode Id="e92ff86c-acf8-47a8-80e4-ccc796a2be7d" Title="ToActionResult Method " Url="html/7a3bf243-45b2-492e-e381-57710b473776.htm">
+              <HelpTOCNode Title="ToActionResult(L, R) Method (Either`2(L, R))" Url="html/c6ea743c-51e2-1ecd-fa1b-cc70cba29e81.htm" />
+              <HelpTOCNode Title="ToActionResult Method (Task(Either`2(Error, Task)))" Url="html/f3ba3e54-93e6-e427-33b0-998ff665f77e.htm" />
+              <HelpTOCNode Title="ToActionResult(L, R) Method (Task(Either`2(L, R)))" Url="html/7efefa24-c10a-d06e-a240-2c9e47b0ffc3.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="4b435824-db53-4244-bc4d-5613c626922d" Title="EnumUtilities Class" Url="html/a7195bb9-1399-ed82-d369-ab21c322f375.htm">
+          <HelpTOCNode Id="100d040b-f6ce-41bc-bd19-cf4e48ec2235" Title="EnumUtilities Methods" Url="html/d68efa2a-a7a3-09ae-4416-e08f3ed54075.htm">
+            <HelpTOCNode Title="ToDescription Method " Url="html/9cf18e70-8318-4180-9bd2-f3e68efccdea.htm" />
+            <HelpTOCNode Id="5037f582-65db-4117-9924-ef362546d44c" Title="ToSelectList Method " Url="html/22be4c1c-fc9e-0340-9dea-275a96567926.htm">
+              <HelpTOCNode Title="ToSelectList(T) Method " Url="html/eb6f39ce-07c7-e465-a250-3fe9e35ed0fd.htm" />
+              <HelpTOCNode Title="ToSelectList(T) Method (IEnumerable(T))" Url="html/cc92ac58-068d-44ff-6e9a-b49aa0d80445.htm" />
+              <HelpTOCNode Title="ToSelectList(T) Method (T)" Url="html/b6809d05-5c93-6677-8df2-4cf5f99d8d37.htm" />
+              <HelpTOCNode Title="ToSelectList(T) Method (IEnumerable(T), T)" Url="html/b62385ec-cd8c-1b1e-1ca3-196cce472a34.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="08250f01-5215-4348-a2ee-205cfbe45b5c" Title="ToSelectListItems Method " Url="html/d05e3a92-6c4a-b6d3-5a58-d757d282fd10.htm">
+              <HelpTOCNode Title="ToSelectListItems(T) Method (IEnumerable(T))" Url="html/df31bf38-d3ff-8090-2be2-abfb99a107fb.htm" />
+              <HelpTOCNode Title="ToSelectListItems(T) Method (IEnumerable(T), T)" Url="html/4a9fffd9-22bb-1b55-13e2-3b53dfd52dd6.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="72a12800-b096-45f9-a65d-63954d07c342" Title="OptionToActionResult Class" Url="html/f64ad3b0-92bb-529f-50ea-88ccbeeb8d62.htm">
+          <HelpTOCNode Id="af1901b4-f1fd-4687-a75c-ed5bb820151e" Title="OptionToActionResult Methods" Url="html/33c48ba4-eff0-fbd3-754e-30feae72c541.htm">
+            <HelpTOCNode Id="a7b7f352-9aca-4b52-991d-4fa2ddaf0158" Title="ToActionResult Method " Url="html/698f03ca-3390-7d4d-9bc7-e18113068577.htm">
+              <HelpTOCNode Title="ToActionResult(T) Method (Option`1(T))" Url="html/ff3d18b3-391c-8465-b6eb-28404d4a0fd2.htm" />
+              <HelpTOCNode Title="ToActionResult(T) Method (Task(Option`1(T)))" Url="html/cbc77504-2d99-b4e4-8f6f-4d531bacdcb2.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="ac787594-2fb2-4948-8750-d220d8f20537" Title="StringExtensions Class" Url="html/6dae981b-e02c-6641-c69c-aa109b91b9ee.htm">
+          <HelpTOCNode Id="99ab38cd-690a-4b6e-b0e2-c32248015a9c" Title="StringExtensions Methods" Url="html/b7055e9a-18c8-54f1-9879-3fa2a15cf44d.htm">
+            <HelpTOCNode Title="ToSelectList Method " Url="html/31d52bbd-83b0-f370-9960-554a66735aa7.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="7d3285e2-411d-48ee-8fc8-c0c741f9f24a" Title="TempDataExtensions Class" Url="html/7de701cd-fe8f-a440-94df-45fc66d9694d.htm">
+          <HelpTOCNode Id="ba607352-5a28-41bd-b10a-6aaa0de8290c" Title="TempDataExtensions Methods" Url="html/dadf0e71-6f38-cd91-af8d-08fc1ea2bb9e.htm">
+            <HelpTOCNode Title="Get(T) Method " Url="html/434ef445-62a9-0fb1-4d68-6bede007f8b8.htm" />
+            <HelpTOCNode Title="Put(T) Method " Url="html/4bef6181-3bf5-a1e7-f1de-929877ccda56.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="a1882825-b5f5-4bd5-a827-42e29d54ebcc" Title="TryToActionResult Class" Url="html/3a7439f6-73ac-5735-ecfe-ddd072e8fdae.htm">
+          <HelpTOCNode Id="493d8d53-5e01-48d2-8cb8-c21e1463ce57" Title="TryToActionResult Methods" Url="html/f2b40bc8-26d6-4295-ef79-a5226281a241.htm">
+            <HelpTOCNode Id="f743e12d-5aa2-4565-bca8-87a579b1ecce" Title="ToActionResult Method " Url="html/9515a2c8-0a10-2e37-71d2-30b0baebc308.htm">
+              <HelpTOCNode Title="ToActionResult(T) Method (Task(Try`1(T)))" Url="html/75f60d5c-06ad-7e31-1ac6-4ff05948c702.htm" />
+              <HelpTOCNode Title="ToActionResult(T) Method (Try`1(T))" Url="html/de40898b-ab45-7509-0b01-197db9771ec1.htm" />
+              <HelpTOCNode Title="ToActionResult(T) Method (Try`1(Task(T)))" Url="html/8405e346-1238-64a0-bfdd-9e66ddeee06c.htm" />
+              <HelpTOCNode Title="ToActionResult(T) Method (TryAsync`1(T))" Url="html/fdb33b14-e42e-5a0b-7528-693ff01b4d43.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="b1af6f9d-3fdd-439f-a70a-a0377fa46a5c" Title="ToActionResultWithLogging Method " Url="html/a8d6894e-0296-69af-cc0e-dbc8c0d478c6.htm">
+              <HelpTOCNode Title="ToActionResultWithLogging(T) Method (Task(Try`1(T)), Action(Exception))" Url="html/1b43b271-452b-47e5-b601-ca9631e43db9.htm" />
+              <HelpTOCNode Title="ToActionResultWithLogging(T) Method (Try`1(T), Action(Exception))" Url="html/c3bf3283-0272-28dc-f766-0ff5ffa35ecf.htm" />
+              <HelpTOCNode Title="ToActionResultWithLogging(T) Method (TryAsync`1(T), Action(Exception))" Url="html/dd2903e3-f179-7030-0f13-7184cb955a11.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="13e877c1-4c9d-4fa5-b2af-f6fcadb2305b" Title="ValidationToActionResult Class" Url="html/fe0f428d-71c6-8b9c-33e4-83b4ae438636.htm">
+          <HelpTOCNode Id="65b42eff-f55a-4041-a251-94a1c3607894" Title="ValidationToActionResult Methods" Url="html/58d4e9fe-1bff-ee9e-4179-c2f26948bc29.htm">
+            <HelpTOCNode Id="36275fdd-02ff-4c1e-a2d8-c4712e88adb1" Title="ToActionResult Method " Url="html/0882acb5-85d0-6641-0621-cd8475639605.htm">
+              <HelpTOCNode Title="ToActionResult Method (Task(Validation`2(Error, Task)))" Url="html/4221f349-64da-a5b6-d5c5-30a9bd9375ec.htm" />
+              <HelpTOCNode Title="ToActionResult(T) Method (Task(Validation`2(Error, T)))" Url="html/86475988-4454-df29-edb4-e1124ac63683.htm" />
+              <HelpTOCNode Title="ToActionResult(T) Method (Validation`2(Error, T))" Url="html/a66bc5b4-b7ba-088a-abf9-5052e8271ae8.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="73bdd29f-c50f-471c-8ab9-ed55fd849656" Title="CTI.Common.Web.Identity" Url="html/86e16136-3d3c-1c87-4f2b-0584f62b0d08.htm">
+        <HelpTOCNode Id="c83083d4-9c3b-411b-8979-e2d8797ffe48" Title="CustomClaimTypes Class" Url="html/316d2264-c5be-12ef-a94d-30e0bfdfb58a.htm">
+          <HelpTOCNode Title="CustomClaimTypes Constructor " Url="html/f6a2b781-1b8d-bfe6-d023-231455eb41c7.htm" />
+          <HelpTOCNode Title="CustomClaimTypes Methods" Url="html/40e0c95a-6831-997a-2147-3bbf83cb2d45.htm" />
+          <HelpTOCNode Id="26f8ce6f-96df-463f-914d-27e14c13ecd2" Title="CustomClaimTypes Fields" Url="html/5dae27d3-34b6-0f70-6428-f9dd519df62d.htm">
+            <HelpTOCNode Title="Tenant Field" Url="html/a16a4238-d0e2-b049-3b90-c2c572cbdb7c.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="fc416cf0-36f9-4363-8419-fa91f32a1705" Title="DefaultAuthenticatedUser Class" Url="html/2ca0705a-05ba-eda1-b08e-2fcdad4cd0a0.htm">
+          <HelpTOCNode Title="DefaultAuthenticatedUser Constructor " Url="html/f676ce95-1a28-e2e4-7cb8-291ca7f822aa.htm" />
+          <HelpTOCNode Id="423a8713-8af7-4187-834e-b3a5f25ee7ab" Title="DefaultAuthenticatedUser Properties" Url="html/8b3f8898-3a09-0993-0cec-469047b643aa.htm">
+            <HelpTOCNode Title="Tenant Property " Url="html/548caee9-39e7-e2cb-14ef-519c37e10e05.htm" />
+            <HelpTOCNode Title="TraceId Property " Url="html/4a5d6b54-70d8-e0a7-7ab6-1be2cc4d1665.htm" />
+            <HelpTOCNode Title="UserId Property " Url="html/a58c724a-3d52-706f-9651-9db0bd3b4cf6.htm" />
+            <HelpTOCNode Title="Username Property " Url="html/0a173e56-eb6d-d373-3ce0-c294070de375.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="DefaultAuthenticatedUser Methods" Url="html/ee8f6cb7-8c37-3128-516d-8d3608b4f9cb.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="badd4494-eb3d-44b7-8090-8bbed96f51f4" Title="CTI.Common.Web.Logging" Url="html/3c63a53c-bdb7-a5f1-a1b9-80228007a2fa.htm">
+        <HelpTOCNode Id="be22fa3c-9d1b-4a47-a44d-8ffbe35df7b1" Title="LogEnricher Class" Url="html/c244bed1-decb-fe07-10b5-fec8ba826117.htm">
+          <HelpTOCNode Id="a7d57c9b-da38-4cfc-8de3-0ca683cb430e" Title="LogEnricher Methods" Url="html/39b8c93d-32ab-d270-b2c3-070e39fccf0f.htm">
+            <HelpTOCNode Title="EnrichFromRequest Method " Url="html/7411ca50-d0b9-425d-3fc1-2154f4509918.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="5562f5b4-48ff-40b5-9894-5046cc380168" Title="LogEnricherMiddleware Class" Url="html/24044bff-ad50-50a9-b0ff-8c583ad1ca6e.htm">
+          <HelpTOCNode Title="LogEnricherMiddleware Constructor " Url="html/2932c6ef-9f0b-1679-943e-13256f6386db.htm" />
+          <HelpTOCNode Id="466ef33f-13ba-4f02-b9fc-168fbbb4b2bb" Title="LogEnricherMiddleware Methods" Url="html/37971142-a18c-15d3-124f-07bc983864ad.htm">
+            <HelpTOCNode Title="InvokeAsync Method " Url="html/f11f4cf2-f4a0-7518-b2ac-89afd34af5ff.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="b6f70fc9-f4f5-48c3-82bc-b5bebe296407" Title="LogEnricherMiddlewareExtensions Class" Url="html/77b8df19-341c-84b1-53e0-546eef2e3413.htm">
+          <HelpTOCNode Id="d35da3f9-3672-4507-8fad-1f9e7aac5491" Title="LogEnricherMiddlewareExtensions Methods" Url="html/597b4d36-5373-2eaa-90b6-0371139223b5.htm">
+            <HelpTOCNode Title="AddLogEnricherServices Method " Url="html/9b3d8991-5bc1-e62e-3f3c-e5549cd34612.htm" />
+            <HelpTOCNode Title="EnrichDiagnosticContext Method " Url="html/2f1fb546-2f41-8ca1-fc43-97c11081325b.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="88424141-7e2d-442b-b689-0b2e8c0b44b7" Title="CTI.Common.WebAPI Namespaces" Url="html/309ef782-b983-586c-6406-780cab7c9ee7.htm">
+      <HelpTOCNode Id="97e1be80-742e-4439-94ea-936b6914aa03" Title="CTI.Common.WebAPI" Url="html/3e87ea5f-92b6-c12c-efb8-ccfa5d833e8d.htm">
+        <HelpTOCNode Id="01a3c0ce-9f46-4a2b-8b15-c1b4364eaf4f" Title="CommonApiExtensions Class" Url="html/3f012761-b8c4-9d7b-8369-2b55d99e4490.htm">
+          <HelpTOCNode Id="dd34af8c-b172-4e22-bf1b-8f05e7b999fa" Title="CommonApiExtensions Methods" Url="html/bd2ad13f-efb9-60d8-e572-57959f8f4aeb.htm">
+            <HelpTOCNode Title="AddDefaultApiServices Method " Url="html/0bde1e92-a5b2-29e8-0af3-bf6c898ef438.htm" />
+            <HelpTOCNode Title="ConfigureAuthentication Method " Url="html/d9cab2fe-b8d9-62a1-533c-7ad49589ebb8.htm" />
+            <HelpTOCNode Title="ConfigureAuthorization Method " Url="html/3a00b6c0-1f70-5d05-d318-03a703ead578.htm" />
+            <HelpTOCNode Title="ConfigureSwagger Method " Url="html/cbe8181b-b3e9-be87-d1a6-072a37c9dbf9.htm" />
+            <HelpTOCNode Title="ConfigureVersioning Method " Url="html/fa6e3d5e-a64b-e719-7787-688ad9d61e0b.htm" />
+            <HelpTOCNode Title="EnableSwagger Method " Url="html/4f6a13cb-a423-e2ea-3e31-cce5c1cd18e7.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b0913c11-a5d3-4a2e-b145-a2c1e77d8446" Title="CTI.Common.WebAPI.Controllers" Url="html/03791328-ec3a-1c5e-e035-55adbd2bb91e.htm">
+        <HelpTOCNode Id="d89b0f11-8fca-40df-abea-77b48f42a6dd" Title="BaseApiController(T) Class" Url="html/a427c73e-7cad-d3d6-b6fd-3d71abb5c56b.htm">
+          <HelpTOCNode Title="BaseApiController(T) Constructor " Url="html/f218f20e-f007-e5ea-1ef0-e97f03d0ef59.htm" />
+          <HelpTOCNode Id="e4c75d0f-bd47-4a8a-993f-c60282aea064" Title="BaseApiController(T) Properties" Url="html/37fd1f1c-4ada-c415-0627-ec081169faa9.htm">
+            <HelpTOCNode Title="Logger Property " Url="html/ef920384-4434-fc51-e04a-ea9690acf482.htm" />
+            <HelpTOCNode Title="Mapper Property " Url="html/9e3e3970-1420-3aad-798d-663304f1cb2a.htm" />
+            <HelpTOCNode Title="Mediator Property " Url="html/5cfbdfc5-e899-e324-65ef-270f614968db.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="3c057d14-eb51-43bb-989d-8221d5549b54" Title="BaseApiController(T) Methods" Url="html/5fefda2c-92b4-d1ac-1051-2317098f3e18.htm">
+            <HelpTOCNode Id="20224452-c9dc-4fcd-b8da-0689fbff4584" Title="ToActionResult Method " Url="html/70f6f010-ed61-8235-0ddf-914d1da7693f.htm">
+              <HelpTOCNode Title="ToActionResult(A) Method (Func(Validation`2(Error, A)))" Url="html/011f170a-b011-3e50-57fc-1bad6e8c0467.htm" />
+              <HelpTOCNode Title="ToActionResult(A) Method (Func(Task(Validation`2(Error, A))))" Url="html/f556a5b3-3d64-17b7-4a72-48447b2159d8.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="991e106c-697a-4f73-9d85-fa9bb31baa15" Title="ErrorController Class" Url="html/1298cfd5-5804-f053-25b8-70e9c68e0bc5.htm">
+          <HelpTOCNode Title="ErrorController Constructor " Url="html/44af38ff-1c5a-c496-280c-560ee1a4f0bc.htm" />
+          <HelpTOCNode Title="ErrorController Properties" Url="html/9ec413c7-6292-cf24-75ef-d0cb8ef940f1.htm" />
+          <HelpTOCNode Id="46805495-a299-45e8-aa0c-23a47659b7cd" Title="ErrorController Methods" Url="html/79d853f7-1a4f-c67e-6d9a-67f6a14481ad.htm">
+            <HelpTOCNode Title="Error Method " Url="html/1c45fc33-f442-f15f-0c8b-a1af39c428b9.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="59ea8fdf-5b9a-4ee6-af20-4894aa32f2b9" Title="MetaData Class" Url="html/5146e888-2b35-2672-2e05-890560f75b70.htm">
+          <HelpTOCNode Title="MetaData Constructor " Url="html/fc9b6ce1-2e35-b75c-7416-c3569cb86626.htm" />
+          <HelpTOCNode Id="dae79545-b83a-4909-9e88-b4e5efde8489" Title="MetaData Properties" Url="html/565bef63-5662-085a-ff21-281345cb6932.htm">
+            <HelpTOCNode Title="Version Property " Url="html/4eedba00-2d24-c895-2950-dde22f604780.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="MetaData Methods" Url="html/f42b39f1-3b81-c9d4-49ea-e4b31df3e215.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3d6c1117-6995-4b83-877f-bee0d8243e60" Title="MetaDataController Class" Url="html/fe480d7a-edea-c1a4-1155-62bac8016e93.htm">
+          <HelpTOCNode Title="MetaDataController Constructor " Url="html/1105473e-04a1-5400-02c9-45f94b9ff187.htm" />
+          <HelpTOCNode Title="MetaDataController Properties" Url="html/a6a2bc2a-3839-837e-46f4-faf0065a0a48.htm" />
+          <HelpTOCNode Id="e28faea0-2c86-4837-80ed-4b4ee32f4711" Title="MetaDataController Methods" Url="html/3f3020e1-033d-b9ab-360e-bd0eeb824e47.htm">
+            <HelpTOCNode Title="GetAsync Method " Url="html/57d2d0ff-5617-842f-2bb2-89b15bd07636.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="16d0f9e3-d383-4587-b10b-2c38d002c701" Title="Version Class" Url="html/bc5e0aca-1c1f-cbd8-159f-0261400773b8.htm">
+          <HelpTOCNode Title="Version Constructor " Url="html/49b07f14-4e25-9cbe-27a8-94b5f27e1383.htm" />
+          <HelpTOCNode Id="29afca27-3d75-4287-b599-baee47f9173a" Title="Version Properties" Url="html/7a140174-1ce5-7e3f-d8ae-e4e3e3e7542c.htm">
+            <HelpTOCNode Title="BuildNumber Property " Url="html/010e13ba-8e54-17cc-0016-4f26517e7804.htm" />
+            <HelpTOCNode Title="ReleaseName Property " Url="html/4a77c425-659d-7875-09c9-cf8ddf372199.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Version Methods" Url="html/e49d3bee-8b66-f1cf-31c0-e0a30415b33a.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b1785e82-4901-43a0-99cd-a47ec211d956" Title="CTI.Common.WebAPI.Swagger" Url="html/6bf04535-2eb0-9298-1a73-bf5e533c8f32.htm">
+        <HelpTOCNode Id="d65c1017-4e23-4264-ac61-aedc890338a9" Title="ConfigureSwaggerOptions Class" Url="html/8d704aaf-967e-902c-8f70-6d6f7ee110a3.htm">
+          <HelpTOCNode Title="ConfigureSwaggerOptions Constructor " Url="html/01ccb926-511f-4c50-2f19-72116bdb97c5.htm" />
+          <HelpTOCNode Id="1031a768-57b0-4f93-a48c-90e72c905924" Title="ConfigureSwaggerOptions Methods" Url="html/0f5f5d20-e9e8-b44f-8b2e-d6bfecb5f5ee.htm">
+            <HelpTOCNode Title="Configure Method " Url="html/e95c5930-417a-4fea-c2f7-b4f839325a14.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
